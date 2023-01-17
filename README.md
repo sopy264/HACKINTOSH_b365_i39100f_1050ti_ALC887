@@ -1,0 +1,2 @@
+暂时只在MacOS Ventura上测试过
+以及梦中支持的nv显卡
